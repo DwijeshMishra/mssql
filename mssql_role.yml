@@ -3,4 +3,4 @@
   hosts: win
   gather_facts: false
   roles:
-   - stackdriver_win
+   - mssql
